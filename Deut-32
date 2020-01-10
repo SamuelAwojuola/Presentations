@@ -1,0 +1,1130 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>HTML Presentation Framework</title>
+
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/serif.css" id="theme">
+
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/monokai.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+</head>
+
+<body>
+    <div class="reveal presentation">
+        <div class="slides">
+            <section id="fragments">
+                <h1>Deuteronomy 32</h1>
+                <p class="fragment"><em>The rise, fall and restoration of Israel</em></p>
+            </section>
+            <section>“Yahweh will judge his people and have compassion on his servants when he sees their strength is gone…” <small><em>[Deu 32:36]</em></small></section>
+            <section>
+                <h2>Synopsis</h2>
+            </section>
+            <section>
+                <section id="fragments">
+                    <small><em>Synopsis</em></small>
+                    <p>The prophecy of Moses recorded in Deuteronomy 32 is all about the rise, fall and restoration of Israel. In this prophecy, Moses speaks of the fact that Israel will sin against God, abandoning him and serving idols.</p>
+                    <p class="fragment">He also, more importantly, declares what God will do in response to their unfaithfulness, having been provoked to jealousy and anger and what God would do and not do for the sake of His Name.</p>
+                </section>
+                <section>
+                    <blockquote>&ldquo;...I know how rebellious and sti<em>ff</em>necked you are. If you have been rebellious against the Lord while I am still alive and with you, how much more will you rebel after I die! <sub>28</sub>Assemble before me all the elders of your tribes and all your officials, so that I can speak these words in their hearing and call heaven and earth to testify against them.</blockquote>
+                </section>
+                <section>
+                    <blockquote><sub>29</sub>For I know that after my death you are sure to become utterly corrupt and to turn from the way I have commanded you. In days to come, disaster will fall upon you because you will do evil in the sight of the Lord and provoke him to anger by what your hands have made.&rdquo; <sub>30</sub>And Moses recited the words of this song from beginning to end in the hearing of the whole assembly of Israel:&rdquo; <small><em>[Deu 31:27-30]</em></small></blockquote>
+                </section>
+            </section>
+            <section>
+                <p>What we here try to do is breakdown the prophecy, laying out its main characters, conflicts and events <em>(among other things)</em>.</p>
+            </section>
+
+            <section>
+                <section>
+                    <h2>Main Characters in Deuteronomy 32 Prophecy</h2>
+                </section>
+                <section id="fragments">
+                    <small><em>Main Characters in Deuteronomy 32 Prophecy</em></small>
+                    <ol>
+                        <li class="fragment">Yahweh</li>
+                        <li class="fragment">Yahweh&rsquo;s people <em>(i.e., Israel, also called Jeshurun in this prophecy <small><em>[Deu 32:15 cf., Deu 33:5,26]</em></small>)</em></li>
+                        <li class="fragment">The sons of the Most High</li>
+                        <li class="fragment">The Wicked, <em>i.e. the antichrist</em></li>
+                        <li class="fragment">The rock of the enemies, <em>i.e. the devil</em></li>
+                        <li class="fragment">The nations</li>
+                    </ol>
+                </section>
+            </section>
+
+            <section>
+                <section>
+                    <h2>Major Events &amp; Turning Points in Deuteronomy 32 Eschatology</h2>
+                </section>
+                <section id="fragments">
+                    <small>Major Events &amp; Turning Points in Deuteronomy 32 Eschatology</small>
+                    <ol>
+                        <li class="fragment">Jeshurun is saved and made a nation by Yahweh</li>
+                        <li class="fragment">Jeshurun betrays Yahweh</li>
+                        <li class="fragment">Yahweh gives up Jeshurun to trouble at the hand of other nations</li>
+                        <li class="fragment">Yahweh avenges his people</li>
+                        <li class="fragment">Yahweh saves his people in mercy and so as not to allow the enemy to make a false claim that his people were not destroyed by Yahweh but by them</li>
+                    </ol>
+                </section>
+            </section>
+
+            <section>
+                <section>
+                    <h2>Resurrection of the dead in Deuteronomy 32 Prophecy/Eschatology</h2>
+                </section>
+                <section>
+                    <small><em>Resurrection of the dead in Deuteronomy 32 Prophecy/Eschatology</em></small>
+                    <p>&ldquo;See now that I myself am He! There is no god besides me. <strong>I put to <span style="color: orangered;">death</span></strong> and <strong>I bring to <span style="color:#78c600;">life</span></strong>, I have wounded and I will heal, and no one can deliver out of my hand.&rdquo; <small><em>[Deu 32:39]</em></small></p>
+                </section>
+            </section>
+
+            <section id="fragments">
+                <section>
+                    <h2>The Events of Deuteronomy 32</h2>
+                </section>
+                <section>
+                    <small>The Events of Deuteronomy 32</small>
+                    <ol>
+                        <li>The nations are given their inheritance <small><em>[Deu 32:7-8 cf., Gen 11:1-9; Act 17:26<em>ff</em>]</em></small></li>
+                        <li class="fragment">The nations are put under the sons of God&mdash;<em>gods</em> <small><em>[Deu 32:8 cf., Psa 82; Dan 10:13,20]</em></small>
+                        </li>
+                    </ol>
+                </section>
+                <section>
+                    <blockquote style="background-color: ">
+
+                        <small>
+                            <ul>
+
+                                <li>Most translations will have &ldquo;according to the number of the sons of Israel&rdquo;. However, there is an alternative translation, depending on the manuscripts, for example, the Septuagint, that reads &ldquo;according to the sons of God&rdquo;.
+                                    <ul type="i">
+                                        <li class="fragment">The Most High assigned nations their lands; he determined where peoples should live. <u>He assigned to each nation a heavenly being</u>, but Jacob's descendants he chose for himself. <small><em>[Good News Translation]</em></small></li>
+                                        <li class="fragment">When the Most High assigned lands to the nations, when he divided up the human race, <u>he established the boundaries of the peoples according to the number in his heavenly court</u>. &ldquo;For the people of Israel belong to the Lord; Jacob is his special possession. <small><em>[New Living Translation]</em></small></li>
+                                        <li class="fragment">When God divided up the world among the nations, <u>He gave each of them a supervising angel!</u> But he appointed none for Israel; For Israel was God's own personal possession! <small><em>[The Living Bible]</em></small></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </small>
+                    </blockquote>
+                </section>
+                <section>
+                    <blockquote style="background-color: ">
+
+                        <small>
+                            <ul>
+                                <li>You may find the alternative translation in the footnotes of translations that read &ldquo;sons of Israel&rdquo;.</li>
+                                <li>There is no contradiction here, for the nations were divided into 70 <small><em>[Gen 10 <em>you will have to count</em>]</em></small>, and the number of the children of Jacob<em> (also called Israel) </em>who went into Egypt was 70 <small><em>[Gen 46:27; Exo 1:5]</em></small>.</li>
+                                <li>So, when God divided men into nations at the Tower of Babel, recorded in <em>[Gen 11:1-9]</em>, God placed them under angelic beings, also called &ldquo;sons of God&rdquo; [Psa 82:6 <em>(but for whatever bias one already holds, these are clearly not men, as it makes no sense to threaten men that they will die like men)</em>; Job 1:6; 2:1 <em>(some translations will have &lsquo;angels&rsquo;, but what is originally there is &ldquo;sons of God&rdquo;)</em>].</li>
+                                <li>This is why there are such things as we read in Daniel, &ldquo;the prince of Persia&rdquo; <small><em>[Dan 10:13]</em></small> and &ldquo;the prince of Greece&rdquo; <small><em>[Dan 10:20]</em></small>, and even Michael, &ldquo;the prince of Israel&rdquo; <small><em>[Dan 10:13,21; 12:1]</em></small>. These are all angels, and none is a man.</li>
+                            </ul>
+                        </small>
+                    </blockquote>
+                </section>
+                <section>
+                    <ol start="3">
+                        <li>Yahweh&rsquo;s portion is his people Israel and the land of Canaan is their inheritance <small><em>[Deu 32:9]</em></small></li>
+                        <li>Yahweh saves his people and leads them from the wilderness to a good land. His people are well fed and taken care of <small><em>[Deu 32:10-14]</em></small></li>
+                    </ol>
+                </section>
+                <section>
+                    <ol start="5">
+                        <li>Jeshurun <em>(his people)</em>, after growing strong, rejects Yahweh and goes after foreign gods to whom he owes nothing having no share in his creation nor in his birth <small><em>[Deu 32:15-18]</em></small></li>
+                        <li>This makes Yahweh very jealous and he becomes very angry with his people <small><em>[Deu 32:19]</em></small></li>
+                    </ol>
+                </section>
+                <section>
+                    <ol start="7">
+                        <li>He decides to repay them in kind,
+                            <ul>
+                                <li>He will punish them for their sins, hiding his face from them and thus rejecting them just as they rejected him <small><em>[Deu 32:20,22]</em></small> and</li>
+                                <li>As they have made him envious by choosing gods who were really no god, he too will make them envious by choosing a nation that was really no nation <small><em>[Deu 32:21]</em></small> this nation is a senseless nation <small><em>[<em>cf.</em> Deu 32:28-29]</em></small>.</li>
+                            </ul>
+                        </li>
+                    </ol>
+                </section>
+                <section>
+                    <ol start="8">
+                        <li>Yahweh will turn on his own people almost to the point of destroying them completely, exterminating them from memory. He will, however, refrain from doing so at the thought of his enemy claiming victory <small><em>[Deu 32:23-26]</em></small> and taking the credit for the fate of His people <small><em>[Deu 32:27]</em></small></li>
+                    </ol>
+                </section>
+                <section>
+                    <blockquote style="background-color: ">
+
+                        <small>
+                            <ul>
+                                <li>The senselessness of these nations is expressed in the facts that
+                                    <ul>
+                                        <li><em>These same nations are the same nations by whom Yahweh will make his people jealous as they are senseless [Deu 32:28-29]</em></li>
+                                        <li>They have no discernment of their end <em>[Deu 32:29]</em></li>
+                                        <li>Though they themselves know that Yahweh the <em>Rock of Israel</em> is stronger than their <em>own rock</em>, <em>[Deu 32:31]</em> they do not realize that they could not have had victory over Yahweh&rsquo;s people if he had not given them up <em>[Deu 32:30]</em></li>
+                                        <li>They do not have righteous laws like those of Yahweh gave his people <em>[Deu 32:31-33]</em> <em>Their rock is unlike Yahweh in power and in wisdom</em></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </small>
+                    </blockquote>
+                </section>
+                <section>
+                    <ol start="9">
+                        <li>There is a day appointed for the destruction of Yahweh&rsquo;s enemies <small><em>[Deu 32:40-42]</em></small></li>
+                        <li>Yahweh will destroy the enemy nations in vengeance and repayment for the treatment of his people <small><em>[Deu 32:35]</em></small></li>
+                        <li>Yahweh will judge his people <small><em>[Deu 32:36]</em></small></li>
+                        <li>Yahweh will have compassion on his servants at the end <small><em>[Deu 32:36]</em></small></li>
+                    </ol>
+                </section>
+            </section>
+            <section style="width: 1000px;">
+                <svg viewBox="0 0 1280 720" xml:space="preserve" id="svg2" version="1.1">
+                    <metadata id="metadata8">
+                        <rdf:RDF>
+                            <cc:Work rdf:about="">
+                                <dc:format>image/svg+xml</dc:format>
+                                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                            </cc:Work>
+                        </rdf:RDF>
+                    </metadata>
+                    <defs id="defs6">
+                        <clipPath id="clipPath18" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path16" d="M 0,1.2207e-4 H 960 V 540.00012 H 0 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath28" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path26" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath40" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path38" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath52" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path50" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath64" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path62" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath78" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path76" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath90" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path88" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath102" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path100" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath114" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path112" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath126" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path124" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath138" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path136" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath150" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path148" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath164" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path162" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath176" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path174" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath188" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path186" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath200" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path198" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath212" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path210" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath224" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path222" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath236" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path234" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath248" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path246" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath262" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path260" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath274" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path272" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath286" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path284" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath298" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path296" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath310" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path308" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath324" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path322" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath336" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path334" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath348" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path346" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath360" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path358" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath372" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path370" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath384" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path382" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath396" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path394" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath408" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path406" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath420" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path418" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath432" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path430" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath444" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path442" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath456" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path454" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath468" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path466" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath480" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path478" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath492" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path490" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath504" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path502" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath516" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path514" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath528" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path526" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath540" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path538" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath552" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path550" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath568" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path566" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath580" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path578" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath592" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path590" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath604" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path602" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath616" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path614" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath628" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path626" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath640" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path638" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath658" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path656" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath670" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path668" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath682" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path680" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath694" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path692" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath706" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path704" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath718" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path716" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath730" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path728" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath744" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path742" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath756" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path754" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath768" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path766" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath782" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path780" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath794" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path792" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath806" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path804" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath820" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path818" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath832" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path830" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath844" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path842" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath856" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path854" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath868" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path866" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath880" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path878" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath892" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path890" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath904" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path902" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath916" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path914" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath928" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path926" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath944" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path942" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath956" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path954" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath968" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path966" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath980" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path978" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath992" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path990" d="m 36.24,264.84 v -34.68 h 297.22 l 1.16,4.62 4.62,1.16 v 28.9 z M 2.861e-5,540 H 960 V 1.2207e-4 H 2.861e-5 Z" />
+                        </clipPath>
+                        <mask id="mask996" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
+                            <image id="image998" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS4AAAATCAAAAAALuL9YAAAAAXNCSVQI5gpbmQAAAQZJREFUWIXt2Ltuw0AMRNEZkv7//5VJTgpvbL2MID1PIUALVRdcaSFg/APfl3FLhzsCBCfYN4L2xQIEjeTM2JUASb0bsQBobk5OrRtSV9dnwF65wt2MmAk7EtSVadW9ggUAgP4IM8477ETqyu2ZybUjA5AkgLEGbOxIlbFtltUChADQRdLMaLSZrwPJ3d1jyywJCAgoQGoJLpsNuSeYmbnb07Ja8tfiq5Yw38crkkYQAhQAhJa6q7Ie4VPsRKBFd7fEWCu1gkXMdjwSoPfRK37XWurKDLcZrzOpKqta+qQhjO5zmrgjVZ9yASRpc5S4I7Uax1zr38TkuhIkQJc20+ob/f3IOPkBMLye5FXebXwAAAAASUVORK5CYII=" preserveAspectRatio="none" style="image-rendering:optimizeSpeed" height="1" width="1" />
+                        </mask>
+                        <clipPath id="clipPath1014" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1012" d="m 340.32,264.84 v -34.68 h 376.3 l 1.16,4.62 4.62,1.16 v 28.9 z M -1.4305e-5,540 H 960 V 6.1035e-5 H -1.4305e-5 Z" />
+                        </clipPath>
+                        <mask id="mask1018" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
+                            <image id="image1020" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXcAAAATCAAAAABOuRLaAAAAAXNCSVQI5gpbmQAAAQhJREFUWIXt2DluxEAMBdHPxfc/sJosB5LHW+CIcMIXDKDGRAWCaEla/8FeP2sW355MMtmWH4f4mj5lMjeznfpBSEB/GfqUzMPDbLNPgq7ufoW/u2eEu2lnfgiiq66qhrt8SpIs3tLdds9Pga6T11X1LJuUACTLZ+TXBKiTEddVjYRSosvM3N3cfCd+BkRERPg5BVIKoyRoUOC7a0Ygd/cIv/xUQ9yHd3a0t5pBZuZm960yJaGG7qpTbxmbfgoyz45usHxO6imfuZtmCBJdz1trfpw1dJ2T4TvwY6DqVDV8Nja5RexlchRU/+gumZn53iRHQdP63v35MrndByGQ+BV5o4/j77+sKe+dlZ/67ErdwAAAAABJRU5ErkJggg==" preserveAspectRatio="none" style="image-rendering:optimizeSpeed" height="1" width="1" />
+                        </mask>
+                        <clipPath id="clipPath1036" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1034" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath1048" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1046" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath1060" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1058" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath1072" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1070" d="m 723.48,264.84 v -34.68 h 221.14 l 1.16,4.62 4.62,1.16 v 28.9 z M 1.4305e-5,540 H 960 V 1.2207e-4 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <mask id="mask1076" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
+                            <image id="image1078" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAAATCAAAAAC/lx5+AAAAAXNCSVQI5gpbmQAAAPtJREFUWIXll0GO3DAMBKtJzv//OxbZOdiT3Q0C5M70wYAIXwpFoSH4T6Lfn3Xxj5NAaCOq8XfWQigk7fJqsD3ftBYoMlLaxAnY09NfUm/QrIwQa6waPH1O9MyDWgBEvipCi+6qPX1d1zl69rfAtkEfqUti9+t6v+P0GEwB05IiQqFY49TOzMx6n9M2FIYGe2zSsWV9TUREZlxxeuy8hzenl0B+IimEMLgAa+yZ7tOvykU9YxQ1M2Or7gH9oFatWd6nZJ4qrc9s7OlzKmORUuzu0z32F5QIZe7qGLB7/gAFSYo9BXPHHg8/QZ93zDJQbP7SJ7so7/jfvyzKL3ERnuXMVCpeAAAAAElFTkSuQmCC" preserveAspectRatio="none" style="image-rendering:optimizeSpeed" height="1" width="1" />
+                        </mask>
+                        <clipPath id="clipPath1094" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1092" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath1106" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1104" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath1118" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1116" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath1130" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1128" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                        <clipPath id="clipPath1142" clipPathUnits="userSpaceOnUse">
+                            <path style="clip-rule:evenodd" id="path1140" d="M 1.4305e-5,0 H 960.00001 V 540 H 1.4305e-5 Z" />
+                        </clipPath>
+                    </defs>
+                    <g transform="matrix(1.3333333,0,0,-1.3333333,0,720)" id="g10">
+                        <g id="g12">
+                            <g clip-path="url(#clipPath18)" id="g14">
+                                <path id="path20" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 0,6.1035e-5 H 960 V 540.00006 H 0 Z" />
+                            </g>
+                        </g>
+                        <g id="g22">
+                            <g clip-path="url(#clipPath28)" id="g24"><text id="text32" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,130.22,288.7)">
+                                    <tspan id="tspan30" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281 44.169842 47.272678 52.77636 56.005562 63.222118 70.438683 73.667877 80.378998 87.595558 94.812119 101.97252 109.18908 115.9002 123.11676 126.34596 132.56567 135.9072 140.72292 147.93948 151.16869 156.63023 163.36945 168.87312">Yahweh singlehandedly raises </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g34">
+                            <g clip-path="url(#clipPath40)" id="g36"><text id="text44" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,130.22,271.78)">
+                                    <tspan id="tspan42" y="0" x="0 3.48192 8.9856005 13.80132 21.017879 27.729 30.9582 33.948719 38.258999 45.377281 52.425362 56.145962 63.26424">Israel [32:10</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g46">
+                            <g clip-path="url(#clipPath52)" id="g48"><text id="text56" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,200.54,271.78)">
+                                    <tspan id="tspan54" y="0" x="0">-</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g58">
+                            <g clip-path="url(#clipPath64)" id="g60"><text id="text68" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,204.86,271.78)">
+                                    <tspan id="tspan66" y="0" x="0 7.0799799 14.15996">14]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path70" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="M 108.06,264.78 V 346.5" />
+                        <g id="g72">
+                            <g clip-path="url(#clipPath78)" id="g74"><text id="text82" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,14.472,450.24)">
+                                    <tspan id="tspan80" y="0" x="0 6.8374801 14.16636 21.158279 24.33132 31.70232 38.287079 42.990479 46.219681 53.618759 60.989761 66.479401 69.708603 76.433762 81.109077 88.100998 91.27404 98.645042 101.87424 108.5994 114.46812 121.46004 128.7468">The nations are placed </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g84">
+                            <g clip-path="url(#clipPath90)" id="g86"><text id="text94" style="font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,18.072,435.12)">
+                                    <tspan id="tspan92" y="0" x="0 7.3132801 14.62656 21.93984 28.90152 33.809856">under </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g96">
+                            <g clip-path="url(#clipPath102)" id="g98"><text id="text106" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,55.152,435.12)">
+                                    <tspan id="tspan104" y="0" x="0 4.7114401 11.88408 18.606672 21.827328 27.326351 34.541183 41.727886 47.226913 50.222546 57.437374 61.726894 64.736595 73.610977 80.825806">the sons of God</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g108">
+                            <g clip-path="url(#clipPath114)" id="g110"><text id="text118" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,109.63,419.86)">
+                                    <tspan id="tspan116" y="0" x="0 4.3102798 11.42856 18.546841 22.253401 29.371679">[32:8]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g120">
+                            <g clip-path="url(#clipPath126)" id="g122"><text id="text130" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,21.552,383.4)">
+                                    <tspan id="tspan128" y="0" x="0 6.8374801 14.16636 21.158279 24.33132 31.70232 38.287079 42.990479 46.219681 53.618759 60.989761 66.479401 69.708603 76.433762 81.109077 88.100998 91.27404 97.886879 101.11608 107.39196 114.38388 121.67064">The nations are given </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g132">
+                            <g clip-path="url(#clipPath138)" id="g134"><text id="text142" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,48.432,368.28)">
+                                    <tspan id="tspan140" y="0" x="0 4.7034001 12.0042 18.99612 22.225321 27.12528 30.354481 33.583679 40.954681 48.24144 55.23336 60.13332 63.362518 67.925522 74.650681 81.965523 87.848282 94.840202">their inheritance </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g144">
+                            <g clip-path="url(#clipPath150)" id="g146"><text id="text154" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,109.63,353.04)">
+                                    <tspan id="tspan152" y="0" x="0 4.3102798 11.42856 18.546841 22.253401 29.371679">[32:8]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path156" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="M 306.06,263.79 V 420.9" />
+                        <g id="g158">
+                            <g clip-path="url(#clipPath164)" id="g160"><text id="text168" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,250.63,455.11)">
+                                    <tspan id="tspan166" y="0" x="0 4.4787598 11.18988 16.65144 23.868 31.08456 35.90028 43.11684 50.277241">Jeshurun </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g170">
+                            <g clip-path="url(#clipPath176)" id="g172"><text id="text180" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,304.15,455.11)">
+                                    <tspan id="tspan178" y="0" x="0 6.7251601 14.04 20.76516 28.08 35.39484 42.793919 50.164921 55.65456 58.8978 67.757042 75.198242 82.513077 85.629959 89.715599 97.114677 102.05676">abandons God for </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g182">
+                            <g clip-path="url(#clipPath188)" id="g184"><text id="text192" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,250.63,439.99)">
+                                    <tspan id="tspan190" y="0" x="0 4.1979599 11.40048 16.2162 22.92732 26.156521 33.373081 40.589642 43.439758 50.656319 57.858841 65.075401 70.536957 73.709999 80.884438 88.100998 95.317558 98.490601 105.70716 112.32 116.883 123.59412 128.99953 133.43616 140.65273 147.86928 151.09848 157.8096">foreign gods and detestable </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g194">
+                            <g clip-path="url(#clipPath200)" id="g196"><text id="text204" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,250.63,424.75)">
+                                    <tspan id="tspan202" y="0" x="0 3.2291999 10.44576 17.648279 20.87748">idols</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g206">
+                            <g clip-path="url(#clipPath212)" id="g208"><text id="text216" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,280.15,424.75)">
+                                    <tspan id="tspan214" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:15]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g218">
+                            <g clip-path="url(#clipPath224)" id="g220"><text id="text228" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,75.096,177.48)">
+                                    <tspan id="tspan226" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281 44.169842 47.272678 53.113319 60.32988 67.532402 73.064163 79.775284 85.292999">Yahweh choses </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g230">
+                            <g clip-path="url(#clipPath236)" id="g232"><text id="text240" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,67.056,162.36)">
+                                    <tspan id="tspan238" y="0" x="0 3.4738081 8.9728317 13.796784 20.969423 27.692017 30.926737 33.936432 41.165329 46.636223 49.88501 57.113903 60.348625 65.819519 68.997986 76.044044 86.099808">Israel as his own</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g242">
+                            <g clip-path="url(#clipPath248)" id="g244"><text id="text252" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,126.82,147.1)">
+                                    <tspan id="tspan250" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519">[32:9]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path254" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 126.54,191.82 v 38.64" />
+                        <g id="g256">
+                            <g clip-path="url(#clipPath262)" id="g258"><text id="text266" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,321.86,385.9)">
+                                    <tspan id="tspan264" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281 44.169842 47.272678 54.489239 61.200359 66.956757 74.159279 85.307037 92.018158 97.535881">Yahweh becomes </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g268">
+                            <g clip-path="url(#clipPath274)" id="g270"><text id="text278" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,321.86,370.66)">
+                                    <tspan id="tspan276" y="0" x="0 3.3555601 10.06668 17.283239 20.51244 27.71496 34.931519 40.421162">jealous </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g280">
+                            <g clip-path="url(#clipPath286)" id="g282"><text id="text290" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,365.3,370.66)">
+                                    <tspan id="tspan288" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519">[32:16</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g292">
+                            <g clip-path="url(#clipPath298)" id="g294"><text id="text302" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,401.66,370.66)">
+                                    <tspan id="tspan300" y="0" x="0">b</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g304">
+                            <g clip-path="url(#clipPath310)" id="g306"><text id="text314" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,408.86,370.66)">
+                                    <tspan id="tspan312" y="0" x="0">]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path316" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 339.3,263.8 v 47.18" />
+                        <g id="g318">
+                            <g clip-path="url(#clipPath324)" id="g320"><text id="text328" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,321.86,332.76)">
+                                    <tspan id="tspan326" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281 44.169842 47.272678 54.489239 61.200359 66.956757 74.159279 85.307037 92.018158 97.535881">Yahweh becomes </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g330">
+                            <g clip-path="url(#clipPath336)" id="g332"><text id="text340" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,422.3,332.76)">
+                                    <tspan id="tspan338" y="0" x="0 7.2165599 14.43312 21.593519 26.493481 32.76936">angry </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g342">
+                            <g clip-path="url(#clipPath348)" id="g344"><text id="text352" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,321.86,317.52)">
+                                    <tspan id="tspan350" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519">[32:16</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g354">
+                            <g clip-path="url(#clipPath360)" id="g356"><text id="text364" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,358.22,317.52)">
+                                    <tspan id="tspan362" y="0" x="0">b</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g366">
+                            <g clip-path="url(#clipPath372)" id="g368"><text id="text376" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,365.42,317.52)">
+                                    <tspan id="tspan374" y="0" x="0">]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g378">
+                            <g clip-path="url(#clipPath384)" id="g380"><text id="text388" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,357.29,211.3)">
+                                    <tspan id="tspan386" y="0" x="0 3.48192 8.9856005 13.80132 21.017879 27.729 30.9582 33.948719 37.177921 44.394482 47.609638 50.83884 58.055401 65.257919 68.487122 75.703682 80.407082 85.278961 91.55484 94.643639 98.953918 106.0722 113.12028 116.84088 123.95916">Israel in idolatry [32:16</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g390">
+                            <g clip-path="url(#clipPath396)" id="g392"><text id="text400" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,488.35,211.3)">
+                                    <tspan id="tspan398" y="0" x="0">-</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g402">
+                            <g clip-path="url(#clipPath408)" id="g404"><text id="text412" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,492.67,211.3)">
+                                    <tspan id="tspan410" y="0" x="0 7.0799799 14.15996">17]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g414">
+                            <g clip-path="url(#clipPath420)" id="g416"><text id="text424" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,265.58,161.47)">
+                                    <tspan id="tspan422" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281">Yahweh</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g426">
+                            <g clip-path="url(#clipPath432)" id="g428"><text id="text436" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,309.74,161.47)">
+                                    <tspan id="tspan434" y="0" x="0">’</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g438">
+                            <g clip-path="url(#clipPath444)" id="g440"><text id="text448" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,312.38,161.47)">
+                                    <tspan id="tspan446" y="0" x="0">s</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g450">
+                            <g clip-path="url(#clipPath456)" id="g452"><text id="text460" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,321.14,161.47)">
+                                    <tspan id="tspan458" y="0" x="0 10.0386 14.85432 22.070881 26.774281 33.990841">wrath </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g462">
+                            <g clip-path="url(#clipPath468)" id="g464"><text id="text472" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,282.98,146.35)">
+                                    <tspan id="tspan470" y="0" x="0 6.3881998 9.6174002 16.83396 23.99436 27.22356 33.934681 39.466438 42.583321 49.799881 53.015041 57.297241 60.55452 65.370239 72.08136">kindles a fire </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g474">
+                            <g clip-path="url(#clipPath480)" id="g476"><text id="text484" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,314.42,131.11)">
+                                    <tspan id="tspan482" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:22]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g486">
+                            <g clip-path="url(#clipPath492)" id="g488"><text id="text496" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,247.08,98.592)">
+                                    <tspan id="tspan494" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281">Yahweh</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g498">
+                            <g clip-path="url(#clipPath504)" id="g500"><text id="text508" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,291.24,98.592)">
+                                    <tspan id="tspan506" y="0" x="0">’</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g510">
+                            <g clip-path="url(#clipPath516)" id="g512"><text id="text520" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,293.88,98.592)">
+                                    <tspan id="tspan518" y="0" x="0">s</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g522">
+                            <g clip-path="url(#clipPath528)" id="g524"><text id="text532" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,302.64,98.592)">
+                                    <tspan id="tspan530" y="0" x="0 4.2821999 7.5394802 12.3552 19.06632 21.944521 29.147039 33.429241 36.46188 43.67844 46.907639 52.41132">fire of his </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g534">
+                            <g clip-path="url(#clipPath540)" id="g536"><text id="text544" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,224.5,83.472)">
+                                    <tspan id="tspan542" y="0" x="0 10.09476 14.91048 22.127041 26.830441 34.047001 37.135799 43.523998 46.753201 53.969761 61.186321 64.41552 71.1828 78.399361 81.628563 84.857758 92.074318 95.317558 104.06448 111.30912 118.52568 125.2368 130.78259">wrath kindled in Hades </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g546">
+                            <g clip-path="url(#clipPath552)" id="g548"><text id="text556" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,314.4,68.232)">
+                                    <tspan id="tspan554" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:22]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g558">
+                            <path id="path560" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:12.48, 4.68;stroke-dasho<em>ff</em>set:0;stroke-opacity:1" d="m 596.82,265.28 v 98.86" />
+                        </g>
+                        <g id="g562">
+                            <g clip-path="url(#clipPath568)" id="g564"><text id="text572" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,537.29,401.02)">
+                                    <tspan id="tspan570" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281 44.169842 47.272678 53.113319 60.32988 67.532402 73.064163 79.775284 85.292999">Yahweh choses </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g574">
+                            <g clip-path="url(#clipPath580)" id="g576"><text id="text584" style="font-style:italic;font-variant:normal;font-weight:bold;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-BoldItalic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,495.65,385.9)">
+                                    <tspan id="tspan582" y="0" x="0 8.9856005 15.82308 23.13792 28.03788 31.49172 34.987679 41.825161">Gentiles</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g586">
+                            <g clip-path="url(#clipPath592)" id="g588"><text id="text596" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,546.05,385.9)">
+                                    <tspan id="tspan594" y="0" x="0 11.14776 18.364321 24.7104 27.9396 35.156158 42.372719 45.573841 49.055759 54.559441 59.37516 66.591721 73.302841 76.532043">making Israel </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g598">
+                            <g clip-path="url(#clipPath604)" id="g600"><text id="text608" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,531.29,370.66)">
+                                    <tspan id="tspan606" y="0" x="0 3.3555601 10.06668 17.283239 20.51244 27.71496 34.931519 40.421162">jealous </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g610">
+                            <g clip-path="url(#clipPath616)" id="g612"><text id="text620" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,574.75,370.66)">
+                                    <tspan id="tspan618" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519">[32:16</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g622">
+                            <g clip-path="url(#clipPath628)" id="g624"><text id="text632" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,611.11,370.66)">
+                                    <tspan id="tspan630" y="0" x="0">b</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g634">
+                            <g clip-path="url(#clipPath640)" id="g636"><text id="text644" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,618.31,370.66)">
+                                    <tspan id="tspan642" y="0" x="0">]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path646" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 339.3,178.2 v 52.26" />
+                        <g id="g648">
+                            <path id="path650" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:12.48, 4.68;stroke-dasho<em>ff</em>set:0;stroke-opacity:1" d="m 529.26,178.2 v 52.26" />
+                        </g>
+                        <g id="g652">
+                            <g clip-path="url(#clipPath658)" id="g654"><text id="text662" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,447.86,161.47)">
+                                    <tspan id="tspan660" y="0" x="0 5.91084 13.1274 20.24568 30.340441 37.051559 44.26812 47.441158 54.657719 61.874279 69.090843 72.320038 77.851799 85.068359 91.77948 97.325279">Yahweh punishes </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g664">
+                            <g clip-path="url(#clipPath670)" id="g666"><text id="text674" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,451.82,146.23)">
+                                    <tspan id="tspan672" y="0" x="0 3.48192 8.9856005 13.80132 21.017879 27.729 30.9582">Israel </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g676">
+                            <g clip-path="url(#clipPath682)" id="g678"><text id="text686" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,485.81,146.23)">
+                                    <tspan id="tspan684" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519">[32:23</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g688">
+                            <g clip-path="url(#clipPath694)" id="g690"><text id="text698" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,522.17,146.23)">
+                                    <tspan id="tspan696" y="0" x="0">-</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g700">
+                            <g clip-path="url(#clipPath706)" id="g702"><text id="text710" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,526.49,146.23)">
+                                    <tspan id="tspan708" y="0" x="0 7.0799799 14.15996">25]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g712">
+                            <g clip-path="url(#clipPath718)" id="g714"><text id="text722" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,424.56,112.75)">
+                                    <tspan id="tspan720" y="0" x="0 9.0009604 16.229856 20.88504 24.119761 31.334593 38.563488 44.034386 47.269104 52.768127 58.534367 65.763268 70.29187 74.84861 81.571198 86.395149 89.489235 92.963043 98.462067 103.28602 110.45866 117.18125 120.41597">Nations scatter Israel </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g724">
+                            <g clip-path="url(#clipPath730)" id="g726"><text id="text734" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,504.36,97.488)">
+                                    <tspan id="tspan732" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:26]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path736" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 680.46,148.1 v 82.36" />
+                        <g id="g738">
+                            <g clip-path="url(#clipPath744)" id="g740"><text id="text748" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,625.97,133.75)">
+                                    <tspan id="tspan746" y="0" x="0 6.8491678 14.078064 20.800655 23.880672 31.109568 38.282207 42.993649 46.228367 53.443199 60.601776 66.1008">The nations </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g750">
+                            <g clip-path="url(#clipPath756)" id="g752"><text id="text760" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,629.09,118.49)">
+                                    <tspan id="tspan758" y="0" x="0 5.5036802 8.7328796 11.96208 19.17864">slip </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g762">
+                            <g clip-path="url(#clipPath768)" id="g764"><text id="text772" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,651.41,118.49)">
+                                    <tspan id="tspan770" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:35]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path774" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 723.54,265.28 v 98.86" />
+                        <g id="g776">
+                            <g clip-path="url(#clipPath782)" id="g778"><text id="text786" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,705.94,385.9)">
+                                    <tspan id="tspan784" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281 44.169842 47.272678 54.489239 61.705799 67.167358 70.424637 81.572403 88.283524 93.099243 98.93988 105.21576 108.09396 115.29648 122.51304">Yahweh has mercy on </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g788">
+                            <g clip-path="url(#clipPath794)" id="g790"><text id="text798" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,705.94,370.66)">
+                                    <tspan id="tspan796" y="0" x="0 3.48192 8.9856005 13.80132 21.017879 27.729 30.9582">Israel </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g800">
+                            <g clip-path="url(#clipPath806)" id="g802"><text id="text810" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,739.9,370.66)">
+                                    <tspan id="tspan808" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:36]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path id="path812" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 723.54,195.5 v 34.96" />
+                        <g id="g814">
+                            <g clip-path="url(#clipPath820)" id="g816"><text id="text824" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,706.61,181.15)">
+                                    <tspan id="tspan822" y="0" x="0 6.8374801 14.05404">The</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g826">
+                            <g clip-path="url(#clipPath832)" id="g828"><text id="text836" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,730.51,181.15)">
+                                    <tspan id="tspan834" y="0" x="0 8.6345997 15.85116 22.084921 25.201799 32.40432 36.68652 39.719158 48.35376 51.582958 57.100681 64.317238 69.694557 74.257561 80.968681 85.784401">Day of Disaster </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g838">
+                            <g clip-path="url(#clipPath844)" id="g840"><text id="text848" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,706.61,166.03)">
+                                    <tspan id="tspan846" y="0" x="0 4.1979599 11.40048 16.2162 19.08036 23.78376 31.00032 37.711441 40.80024 49.799881 57.016441 61.719841 64.949043 72.151558 79.325996 84.829681">for the Nations </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g850">
+                            <g clip-path="url(#clipPath856)" id="g852"><text id="text860" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,706.61,150.79)">
+                                    <tspan id="tspan858" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:35]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g862">
+                            <g clip-path="url(#clipPath868)" id="g864"><text id="text872" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,706.61,123.41)">
+                                    <tspan id="tspan870" y="0" x="0 5.88276 13.09932 20.16144 30.200041 36.953281 44.169842 47.272678 50.628239 57.844799 65.061363 72.235802 78.946922 84.464638 87.69384 92.39724 99.6138 106.32492">Yahweh judges the </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g874">
+                            <g clip-path="url(#clipPath880)" id="g876"><text id="text884" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,706.61,108.29)">
+                                    <tspan id="tspan882" y="0" x="0 7.2165599 14.43312 19.08036 22.309561 29.512079 36.728642 42.232319 45.461521 52.678082 59.894642 67.055038 70.284241 77.500801 83.762642 90.473763 97.648201 104.86476 111.57588 117.07956">nations and avenges </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g886">
+                            <g clip-path="url(#clipPath892)" id="g888"><text id="text896" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,706.61,93.168)">
+                                    <tspan id="tspan894" y="0" x="0 7.2165599 10.44576 15.94944 19.06632 26.282881 32.993999 40.196522 47.413078 50.642281 57.353401">his people </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g898">
+                            <g clip-path="url(#clipPath904)" id="g900"><text id="text908" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,766.99,93.168)">
+                                    <tspan id="tspan906" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602 39.8736 46.92168">[32:36,41</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g910">
+                            <g clip-path="url(#clipPath916)" id="g912"><text id="text920" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,820.99,93.168)">
+                                    <tspan id="tspan918" y="0" x="0">-</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g922">
+                            <g clip-path="url(#clipPath928)" id="g924"><text id="text932" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,706.61,77.928)">
+                                    <tspan id="tspan930" y="0" x="0 7.0799799 14.15996 17.63166 24.711639 31.79162">42,43]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g934">
+                            <path id="path936" style="fill:none;stroke:#000000;stroke-width:1.55999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:12.48, 4.68;stroke-dasho<em>ff</em>set:0;stroke-opacity:1" d="m 750.66,263.8 v 47.18" />
+                        </g>
+                        <g id="g938">
+                            <g clip-path="url(#clipPath944)" id="g940"><text id="text948" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,733.25,332.76)">
+                                    <tspan id="tspan946" y="0" x="0 7.4411998 14.15232 19.67004 26.8866 31.70232 36.475922 43.187038 49.055759 53.759159 56.988361 64.19088 71.40744">Resurrection </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g950">
+                            <g clip-path="url(#clipPath956)" id="g952"><text id="text960" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,807.55,332.76)">
+                                    <tspan id="tspan958" y="0" x="0 7.2025199 11.48472 14.51736 19.22076 26.437321 33.148441">of the </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g962">
+                            <g clip-path="url(#clipPath968)" id="g964"><text id="text972" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,733.25,317.52)">
+                                    <tspan id="tspan970" y="0" x="0 7.2165599 13.92768 21.144239 28.3608">dead </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g974">
+                            <g clip-path="url(#clipPath980)" id="g976"><text id="text984" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,764.71,317.52)">
+                                    <tspan id="tspan982" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:39]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g986">
+                            <g clip-path="url(#clipPath992)" id="g988">
+                                <g transform="matrix(325.62,0,0,19.746,17.28,224.45)" id="g994">
+                                    <image id="image1000" mask="url(#mask996)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS4AAAATCAYAAAAu0+CEAAAABHNCSVQICAgIfAhkiAAAAF1JREFUeJzt1EENACAQwLAD/55BAy+ypFWw19bMnAEI2b8DAF4ZF5BjXECOcQE5xgXkGBeQY1xAjnEBOcYF5BgXkGNcQI5xATnGBeQYF5BjXECOcQE5xgXkGBeQcwFlhQElp5eLBAAAAABJRU5ErkJggg==" transform="matrix(1,0,0,-1,0,1)" preserveAspectRatio="none" style="image-rendering:optimizeSpeed" height="1" width="1" />
+                                </g>
+                            </g>
+                        </g>
+                        <path id="path1002" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 36.24,264.84 h 303 v -28.9 l -5.78,-5.78 H 36.24 Z" />
+                        <path id="path1004" style="fill:#c3c3c3;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 333.46,230.16 1.16,4.62 4.62,1.16 z" />
+                        <path id="path1006" style="fill:none;stroke:#7f7f7f;stroke-width:0.23999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 333.46,230.16 1.16,4.62 4.62,1.16 -5.78,-5.78 H 36.24 v 34.68 h 303 v -28.9" />
+                        <g id="g1008">
+                            <g clip-path="url(#clipPath1014)" id="g1010">
+                                <g transform="matrix(404.7,0,0,19.746,321.36,224.45)" id="g1016">
+                                    <image id="image1022" mask="url(#mask1018)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXcAAAATCAYAAABr0k0GAAAABHNCSVQICAgIfAhkiAAAAGFJREFUeJzt1MEJACAQwLDT/XfWJQShJBP01TUzZwBI2b8DAHjP3AGCzB0gyNwBgswdIMjcAYLMHSDI3AGCzB0gyNwBgswdIMjcAYLMHSDI3AGCzB0gyNwBgswdIMjcAYIurqIBJWLPnHIAAAAASUVORK5CYII=" transform="matrix(1,0,0,-1,0,1)" preserveAspectRatio="none" style="image-rendering:optimizeSpeed" height="1" width="1" />
+                                </g>
+                            </g>
+                        </g>
+                        <path id="path1024" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 340.32,264.84 H 722.4 v -28.9 l -5.78,-5.78 h -376.3 z" />
+                        <path id="path1026" style="fill:#c3c3c3;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 716.62,230.16 1.16,4.62 4.62,1.16 z" />
+                        <path id="path1028" style="fill:none;stroke:#7f7f7f;stroke-width:0.23999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 716.62,230.16 1.16,4.62 4.62,1.16 -5.78,-5.78 h -376.3 v 34.68 H 722.4 v -28.9" />
+                        <g id="g1030">
+                            <g clip-path="url(#clipPath1036)" id="g1032"><text id="text1040" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,406.49,243.89)">
+                                    <tspan id="tspan1038" y="0" x="0 5.8787522 13.107648 20.153711 30.209473 36.932064 44.160961 47.269104 54.498001 57.732719 64.905357 71.627953 77.126976 80.249184 87.478081 90.712799 96.183693 99.36216 103.5251 110.754 116.49211 123.21471 126.21033 130.49986 135.32381 142.53864 153.66327 156.57451 160.04832 165.54735 170.37129 177.54393 184.26653 187.50125 190.62346 194.9411 202.02936 209.10355 212.83051 219.90471">Yahweh hides his face from Israel [32:19</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g1042">
+                            <g clip-path="url(#clipPath1048)" id="g1044"><text id="text1052" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,633.55,243.89)">
+                                    <tspan id="tspan1050" y="0" x="0">-</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g1054">
+                            <g clip-path="url(#clipPath1060)" id="g1056"><text id="text1064" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.06400013px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,637.87,243.89)">
+                                    <tspan id="tspan1062" y="0" x="0 7.1040478 14.208096">20]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g1066">
+                            <g clip-path="url(#clipPath1072)" id="g1068">
+                                <g transform="matrix(249.54,0,0,19.746,704.52,224.45)" id="g1074">
+                                    <image id="image1080" mask="url(#mask1076)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAAATCAYAAACa/EGiAAAABHNCSVQICAgIfAhkiAAAAFVJREFUeJzt0zEBACAMwLCBf8+ggJseiYI+XTNzBkjavwOAN4NCmEEhzKAQZlAIMyiEGRTCDAphBoUwg0KYQSHMoBBmUAgzKIQZFMIMCmEGhTCDQtgFEWMBJa4PNdUAAAAASUVORK5CYII=" transform="matrix(1,0,0,-1,0,1)" preserveAspectRatio="none" style="image-rendering:optimizeSpeed" height="1" width="1" />
+                                </g>
+                            </g>
+                        </g>
+                        <path id="path1082" style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 723.48,264.84 H 950.4 v -28.9 l -5.78,-5.78 H 723.48 Z" />
+                        <path id="path1084" style="fill:#c3c3c3;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 944.62,230.16 1.16,4.62 4.62,1.16 z" />
+                        <path id="path1086" style="fill:none;stroke:#7f7f7f;stroke-width:0.23999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="m 944.62,230.16 1.16,4.62 4.62,1.16 -5.78,-5.78 H 723.48 v 34.68 H 950.4 v -28.9" />
+                        <g id="g1088">
+                            <g clip-path="url(#clipPath1094)" id="g1090"><text id="text1098" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,766.58,286.73)">
+                                    <tspan id="tspan1096" y="0" x="0 7.8062401 12.36924 19.57176 26.788321 33.499439 44.63316 51.34428 58.434479 63.137878 65.987999 70.185959 77.388481 82.204201 85.068359 88.297562 95.514122 102.73068 109.94724">Atonement for land </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g1100">
+                            <g clip-path="url(#clipPath1106)" id="g1102"><text id="text1110" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,766.58,271.49)">
+                                    <tspan id="tspan1108" y="0" x="0 7.2165599 14.43312 21.593519 24.82272 32.03928 38.750401 45.952919 53.169479 56.398682 63.109798">and people </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g1112">
+                            <g clip-path="url(#clipPath1118)" id="g1114"><text id="text1122" style="font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,832.7,271.49)">
+                                    <tspan id="tspan1120" y="0" x="0 4.3102798 11.42856 18.476641 22.197241 29.315519 36.363602">[32:43]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g1124">
+                            <g clip-path="url(#clipPath1130)" id="g1126"><text id="text1134" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,546.6,211.42)">
+                                    <tspan id="tspan1132" y="0" x="0 3.48192 8.9856005 13.80132 21.017879 27.729 30.9582 33.990841 37.220039 44.4366 47.67984 54.180359 60.315842 63.54504 66.774239 73.527481 76.405678 80.715958 87.834244 94.952522 98.659081 105.77736 112.89564 116.58816">Israel in exile [28:64; </tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="g1136">
+                            <g clip-path="url(#clipPath1142)" id="g1138"><text id="text1146" style="font-style:italic;font-variant:normal;font-weight:normal;font-size:14.03999996px;font-family:Calibri;-inkscape-font-specification:Calibri-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,586.7,194.5)">
+                                    <tspan id="tspan1144" y="0" x="0 7.0799799 14.15996 17.88438 24.964359 32.044338">32:26]</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </svg>
+            </section>
+
+            <!--
+            <section>
+                <h1></h1>
+                <p></p>
+            </section>
+            <section id="fragments">
+                <h1></h1>
+                <p class="fragment"></p>
+            </section>
+-->
+
+        </div>
+    </div>
+
+    <script src="js/reveal.js"></script>
+    <script>
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            center: true,
+            hash: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [{
+                    src: 'plugin/markdown/marked.js',
+                    condition: function() {
+                        return !!document.querySelector('[data-markdown]');
+                    }
+                },
+                {
+                    src: 'plugin/markdown/markdown.js',
+                    condition: function() {
+                        return !!document.querySelector('[data-markdown]');
+                    }
+                },
+                {
+                    src: 'plugin/highlight/highlight.js',
+                    async: true
+                },
+                {
+                    src: 'plugin/search/search.js',
+                    async: true
+                },
+                {
+                    src: 'plugin/zoom-js/zoom.js',
+                    async: true
+                },
+                {
+                    src: 'plugin/notes/notes.js',
+                    async: true
+                }
+            ]
+        });
+    </script>
+    <script>
+        BGLinks.version = "NKJV";
+        BGLinks.linkVerses();
+    </script>
+</body></html>
